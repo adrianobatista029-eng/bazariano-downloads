@@ -4,7 +4,7 @@ Aplicativos Android do Bazariano. Baixe pelo celular e abra o arquivo para insta
 
 | App | Versão atual | Download |
 |---|---|---|
-| Bazariano (comprar e vender) | 3.2 | [bazariano-3.2.apk](https://github.com/adrianobatista029-eng/bazariano-downloads/releases/download/bazariano-v3.2/bazariano-3.2.apk) |
+| Bazariano (comprar e vender) | 3.3 | [bazariano-3.3.apk](https://github.com/adrianobatista029-eng/bazariano-downloads/releases/download/bazariano-v3.3/bazariano-3.3.apk) |
 | Bazariano Entregador | 1.8 | [entregador-1.8.apk](https://github.com/adrianobatista029-eng/bazariano-downloads/releases/download/entregador-v1.8/entregador-1.8.apk) |
 
 Funciona em celulares Android 7.0 ou mais novos, com processador de 64 bits.
